@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Palindrome-or-not-React-app/static/css/main.a6a38f82.css",
+    "main.js": "/Palindrome-or-not-React-app/static/js/main.eb125bd7.js",
+    "index.html": "/Palindrome-or-not-React-app/index.html",
+    "main.a6a38f82.css.map": "/Palindrome-or-not-React-app/static/css/main.a6a38f82.css.map",
+    "main.eb125bd7.js.map": "/Palindrome-or-not-React-app/static/js/main.eb125bd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a38f82.css",
+    "static/js/main.eb125bd7.js"
+  ]
+}
